@@ -6,7 +6,7 @@
 
 @property (nonatomic, strong) Character *character;
 
-@property (nonatomic, weak) IBOutlet UILabel *name;
+@property (nonatomic, weak) IBOutlet UILabel *name; 
 @property (nonatomic, weak) IBOutlet UILabel *averageItemLevel;
 @property (nonatomic, weak) IBOutlet UILabel *avgItemLevelEquipped;
 @property (nonatomic, weak) IBOutlet UILabel *selectedSpec;
